@@ -13,3 +13,4 @@ Some article & code would be saved as archives in this repo.
 - Du, Min, and Feifei Li. "Spell: Online streaming parsing of large unstructured system logs." IEEE Transactions on Knowledge and Data Engineering 31.11 (2018): 2213-2227.
 - Lee, Daniel D., and H. Sebastian Seung. "Learning the parts of objects by non-negative matrix factorization." Nature 401.6755 (1999): 788-791.
 - Cichocki, Andrzej, Rafal Zdunek, and Shun-ichi Amari. "Nonnegative matrix and tensor factorization [lecture notes]." IEEE signal processing magazine 25.1 (2007): 142-145.
+- Que, Xinyu, et al. "Scalable community detection with the louvain algorithm." 2015 IEEE International Parallel and Distributed Processing Symposium. IEEE, 2015.
