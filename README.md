@@ -1,6 +1,9 @@
 # apt-provenance-research
 Material collections for APT provenance research
 
+Future update on:
+https://endcat.cn/kanna/index.php/tag/essay/
+
 ## Intro
 This repo used for my university study research on APT provenance.
 
